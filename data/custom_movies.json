@@ -1,0 +1,1046 @@
+[
+  {
+    "id": "mov-101",
+    "genreStr": "Action, Drama, Thriller",
+    "director": "Murali Kishore Abburi",
+    "daysUntilRelease": 0,
+    "synopsis": " Irumudi is a sacred, dual-compartment cloth bundle carried on the head by Sabarimala pilgrims, holding divine offerings (like a ghee-filled coconut) in the front and personal travel essentials in the back.",
+    "title": "IRUMUDI",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "trailer": "https://youtu.be/CSXhb2zhfLc?si=dbxmLhvFEzA13kIc",
+    "languagesStr": "Telugu,Tamil",
+    "isReleased": true,
+    "releaseDate": "2026-08-21",
+    "displayReleaseDate": "21 Aug 2026",
+    "releaseStatusLabel": "In Theatres Now",
+    "daysSinceRelease": 22,
+    "certification": "U/A-3+",
+    "backdrop": "https://m.media-amazon.com/images/M/MV5BMjZlMDBhYzktYTY4OS00ZGU3LWEwNzQtOTBiY2M0MTVjMmIyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "trailers": {
+      "Tamil": "https://youtu.be/EGqkhESMhJQ?si=e4rLnepuFFuOksEN",
+      "Telugu": "https://youtu.be/CSXhb2zhfLc?si=dbxmLhvFEzA13kIc"
+    },
+    "crew": [
+      {
+        "role": "Director",
+        "image": "data:image/jpeg;base64,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",
+        "name": "Shiva Nirvana"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh02FjzzCjwmOU37V6ZokWCnDK62WTeZK3Lzxb8n2Gtg&s=10",
+        "role": "Music Director",
+        "name": "G. V. Prakash Kumar"
+      }
+    ],
+    "language": "Telugu",
+    "trailerUrl": "https://youtu.be/CSXhb2zhfLc?si=dbxmLhvFEzA13kIc",
+    "languageTrailers": [
+      {
+        "url": "https://youtu.be/CSXhb2zhfLc?si=dbxmLhvFEzA13kIc",
+        "language": "Telugu"
+      },
+      {
+        "language": "Tamil",
+        "url": "https://youtu.be/EGqkhESMhJQ?si=e4rLnepuFFuOksEN"
+      }
+    ],
+    "cast": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjWwQQ1BzO1EW6N-NZswTOenSgEPnftR-TT2DJkDDn4w&s=10",
+        "role": " Trinadh Rama Kasu",
+        "name": "Raviteja"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ8CN5y5L8gXLEuvi0GTdNYSHn0X6ZkCXmAqdtlJe8dw&s=10",
+        "name": "Priya Bhavani Shankar",
+        "role": "Lead Heroine"
+      }
+    ],
+    "duration": "180 min",
+    "status": "now_showing",
+    "genre": [
+      "Action",
+      "Drama",
+      "Thriller"
+    ],
+    "rating": 8.8,
+    "updatedAt": "2026-09-12T06:05:03.275Z",
+    "isReleasedToday": false,
+    "languages": [
+      "Telugu",
+      "Tamil"
+    ],
+    "releaseBadgeType": "now_showing",
+    "votes": "142.5K"
+  },
+  {
+    "id": "mov-102",
+    "votes": "210.8K",
+    "trailers": {
+      "Telugu": "https://www.youtube.com/embed/Y4d8kY-nRfE"
+    },
+    "backdrop": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "releaseDate": "2026-08-07",
+    "genre": [
+      "Comedy",
+      "Action",
+      "Drama",
+      "Fantasy"
+    ],
+    "cast": [
+      {
+        "role": "Kanakaraju",
+        "image": "https://i.pinimg.com/474x/86/3d/fe/863dfeed809607652366a0bb6d1c45b7.jpg",
+        "name": "Varun Tej"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQEVwJBOM4YaanZ07D0WaA0AcB1cRK66E1l7RmHPoqEA&s",
+        "role": "Chaitra",
+        "name": "Ritika Nayak"
+      },
+      {
+        "name": "Satya",
+        "role": "Friend",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Satya_%28actor%29.jpg/440px-Satya_%28actor%29.jpg"
+      }
+    ],
+    "rating": 9.1,
+    "certification": "U/A",
+    "status": "now_showing",
+    "updatedAt": "2026-09-12T06:05:04.931Z",
+    "trailerUrl": "https://www.youtube.com/embed/Y4d8kY-nRfE",
+    "synopsis": "A short-tempered youth from Andhra Pradesh gets possessed by the wandering spirit of a Korean gangster after accidentally ingesting his ashes. Together with his eccentric group of friends, he must navigate comedic chaos and travel all the way to South Korea to fulfill the ghost's unresolved wish.",
+    "director": "Merlapaka Gandhi",
+    "language": "Telugu",
+    "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/korean-kanakaraju-et00494465-1785993847.jpg",
+    "duration": "155 min",
+    "title": "Korean Kanakaraju",
+    "languages": [
+      "Telugu"
+    ],
+    "crew": [
+      {
+        "role": "Director",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYtA0shYj-VZmLqofzZP-3NVL2tpEN52GrhLMkwc31mgb41ZT3tqcIdi0Wa0zC6kj57uZ0q50cdG_tWDwvkAJo4ArNTBFqPA-tuY9yD8Yx&s=10",
+        "name": "Merlapaka Gandhi"
+      },
+      {
+        "image": "https://static.toiimg.com/thumb/imgsize-23456,msid-122050893,width-600,resizemode-4/pg14-thaman1.jpg",
+        "role": "Music Director",
+        "name": "Thaman S"
+      }
+    ]
+  },
+  {
+    "id": "mov-103",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "certification": "U/A",
+    "director": "Destin Daniel Cretton",
+    "language": "English",
+    "releaseDate": "2026-07-31",
+    "synopsis": "Peter Parker navigates a fresh start in New York City after the world forgets his civilian identity, balancing college life and everyday struggles with formidable new multiverse threats and high-stakes criminal syndicates.",
+    "poster": "https://cdn.district.in/movies-assets/images/cinema/image-(29)-598ac6b0-6a24-11f1-8579-1756095b1930.jpg",
+    "duration": "152 min",
+    "votes": "185.2K",
+    "crew": [
+      {
+        "role": "Director",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsGBWdjStJ2Jn8XSNogIeQkkNCfeneZmoMvUHug4_PMQ&s=10",
+        "name": "Destin Daniel Cretton"
+      },
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Michael_Giacchino_Sep_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "name": "Michael Giacchino",
+        "role": "Music Director"
+      }
+    ],
+    "status": "now_showing",
+    "backdrop": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&auto=format&fit=crop&q=80",
+    "trailers": {
+      "Kannada": "https://youtu.be/h9W06ROR2h0?si=MA0VaJlex7jk96yM",
+      "Tamil": "https://youtu.be/uZAwsh-unZ8?si=RcKe-zvMpTyhGMQL",
+      "Hindi": "https://youtu.be/Fi1wAaQkJHU?si=yi0-RhbMXRjUcV0P",
+      "Telugu": "https://youtu.be/x-9i31iPe2A?si=jOb_rEzCrYLlZAgA",
+      "Malayalam": "https://youtu.be/PgbXZm3l8Hg?si=Sg479g0_z0aGJWnO",
+      "English": "https://www.youtube.com/embed/62bIsvRcPv0"
+    },
+    "rating": 8.9,
+    "updatedAt": "2026-09-12T06:05:05.162Z",
+    "trailerUrl": "https://www.youtube.com/embed/62bIsvRcPv0",
+    "title": "Spider-Man: The Brand New Day",
+    "languages": [
+      "English",
+      "Telugu",
+      "Tamil",
+      "Hindi",
+      "Kannada",
+      "Malayalam"
+    ],
+    "cast": [
+      {
+        "role": "Peter Parker / Spider-Man",
+        "name": "Tom Holland",
+        "image": "https://resizing.flixster.com/qiU8frqdLTxeqrghBSR-S3Au2lI=/fit-in/705x460/v2/https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/733885_v9_bc.jpg"
+      },
+      {
+        "image": "https://media.allure.com/photos/69b01d72fc8b6dd40c7e3f34/master/w_1600%2Cc_limit/zendaya%2520short%2520curly%2520bixie%2520paris.jpg",
+        "role": "MJ",
+        "name": "Zendaya"
+      },
+      {
+        "image": "https://m.media-amazon.com/images/M/MV5BZjU5ZjQwMWEtOWM5OS00ODJmLThiZTMtODhkNTc2MWI3MWZjXkEyXkFqcGc@._V1_.jpg",
+        "role": "Ned Leeds",
+        "name": "Jacob Batalon"
+      }
+    ]
+  },
+  {
+    "id": "mov-104",
+    "writer": "Arun Matheswaran",
+    "title": "DC",
+    "additionalScreenplay": "Arun Ranjan",
+    "editor": "Prasanna GK",
+    "producer": "Kalanithi Maran",
+    "rating": 9.3,
+    "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "trailers": {
+      "Telugu": "https://www.youtube.com/embed/J016rybm1o0",
+      "Tamil": "https://www.youtube.com/embed/2kntxizQIFI"
+    },
+    "certification": "A",
+    "languages": [
+      "Tamil",
+      "Telugu"
+    ],
+    "cast": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYZJdAAjzbjnXwWknpRHnjwnXqZfpRoHl92zEOA-kwor6yWIRtnTO_E4lRsXphDtdXB4MCN4rjv89k2GgQkyurHFOIFM10bRMwFuK0F6neA&s=10",
+        "character": "Devadas",
+        "role": "Devadas",
+        "name": "Lokesh Kanagaraj"
+      },
+      {
+        "character": "Chandra",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Wamiqa_Gabbi_snapped_outside_Maddock_office_%282%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original",
+        "role": "Chandra",
+        "name": "Wamiqa Gabbi"
+      },
+      {
+        "character": "Parvathy",
+        "name": "Sanjana Krishnamoorthy",
+        "role": "Parvathy",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6p3-f7uGy82sQuf_AuGmOtKt3XNzlaeC49gEjGum6Ip_gViH_FkJYDhVUo4iXRKteSbaVSNod3v29AM33S6igvTzeXFIxQQ_190il77ru&s=10"
+      }
+    ],
+    "status": "now_showing",
+    "synopsis": "Devadas, a fearless outlaw, joins forces with Chandra, a resilient woman seeking justice. Together, the two embark on a relentless, high-stakes battle of vengeance and survival against corrupt syndicate kingpins and rogue police forces, fueled by Anirudh Ravichander's explosive musical score.",
+    "director": "Arun Matheswaran",
+    "country": "India",
+    "production": "Sun Pictures",
+    "music": "Anirudh Ravichander",
+    "cinematography": "Mukesh G",
+    "updatedAt": "2026-09-12T06:05:05.384Z",
+    "year": 2026,
+    "crew": [
+      {
+        "role": "Director",
+        "image": "https://pbs.twimg.com/media/GqV4u3Qa4AA8Ajd.jpg",
+        "name": "Arun Matheswaran"
+      },
+      {
+        "role": "Music Director / Composer",
+        "name": "Anirudh Ravichander",
+        "image": "data:image/webp;base64,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"
+      },
+      {
+        "name": "Kalanithi Maran",
+        "image": "https://imageio.forbes.com/specials-images/imageserve/615b2ce02324216fa0fe0d6d/0x0.jpg?format=jpg&crop=894,895,x164,y91,safe&height=416&width=416&fit=bounds",
+        "role": "Producer (Sun Pictures)"
+      }
+    ],
+    "duration": "155 min",
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "trailerUrl": "https://www.youtube.com/embed/2kntxizQIFI",
+    "votes": "142.6K",
+    "language": "Tamil",
+    "releaseDate": "2026-08-07",
+    "dialogueWriter": "Franklin Jacob",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCwuCXdpVXXvvVzJILAYrpWwmnHH--0DBXKDtPLLYx0A&s"
+  },
+  {
+    "id": "mov-105",
+    "duration": "178 min",
+    "status": "now_showing",
+    "languages": [
+      "Telugu"
+    ],
+    "crew": [
+      {
+        "name": "Ravi Namburi",
+        "role": "Director",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&auto=format&fit=crop&q=80"
+      },
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Mani_Sharma.jpg/440px-Mani_Sharma.jpg",
+        "role": "Music Director",
+        "name": "Mani Sharma"
+      }
+    ],
+    "synopsis": "follows Niveditha, whose life shatters when her fiancé abandons her on their wedding day. Struggling with deep emotional trauma, she meets Steven Shankar, an aspiring filmmaker. Their unexpected bond grows into a healing romance, though a dramatic mid-point twist tests their future.",
+    "title": " Chennai LoveStory",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmNhOWU4ZmItNDNlYi00N2ZkLWFlZDEtM2RhNWI5NDgyYzQwXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "director": "Ravi Namburi",
+    "language": "Telugu",
+    "certification": "U/A",
+    "updatedAt": "2026-09-12T06:05:05.644Z",
+    "releaseDate": "July 24, 2026",
+    "votes": "115.0K",
+    "cast": [
+      {
+        "name": "Kiran Abbavaram",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPYg7ELssPXGutPteyfYgtO62dfukkwT2BpTflAx208Q&s=10",
+        "role": "Steven Shankar"
+      },
+      {
+        "name": "Sri Gouri Priya",
+        "role": "Nivedita / Nivi",
+        "image": "https://www.kollywoodzone.com/boxoffice/wp-content/uploads/2023/09/Heroine-Sri-Gouri-Priya-at-Chennai-Love-Story-Movie-Song-Launch-Photos-08.jpg"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyAeS3YUYSFXtp6jSbdwBPo-TnOMn7kkViU9QJBSaOGojrqyTXbEGtbRs&s=10",
+        "name": "Adith Arun",
+        "role": "Ajay"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/embed/5cx7rvMvAWo",
+    "trailers": {
+      "Telugu": "https://youtu.be/nYYjR9diizE?si=HPW7wUnJHFLlkmDg"
+    },
+    "backdrop": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&auto=format&fit=crop&q=80",
+    "rating": 8.4,
+    "genre": [
+      "Romance",
+      "Drama",
+      "Comedy"
+    ]
+  },
+  {
+    "id": "mov-106",
+    "duration": "190 min",
+    "status": "coming_soon",
+    "crew": [
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Prashanth_Neel_at_Salaar_Event.jpg?width=400",
+        "name": "Prashanth Neel",
+        "role": "Director"
+      },
+      {
+        "role": "Music Director",
+        "image": "https://i.scdn.co/image/ab6761610000e5ebef0d801d386d15b5a2b37b06",
+        "name": "Ravi Basrur"
+      }
+    ],
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Malayalam"
+    ],
+    "title": "Dragon",
+    "synopsis": "Set in the late 1960s, Dragon follows a brutal global war for control over the lucrative opium trade. Jr NTR stars as Luger, a ruthless and feared assassin-in-chief caught in the crossfire of powerful syndicates and law enforcement.",
+    "poster": "https://preview.redd.it/new-poster-of-dragon-v0-ys7q7rvhea2h1.jpeg?width=1080&crop=smart&auto=webp&s=29c4333f1c1fcd6870c7f4dc2d1a80cf61f4405f",
+    "director": "Prashanth Neel",
+    "language": "Telugu",
+    "certification": "U/A",
+    "updatedAt": "2026-09-12T06:05:05.868Z",
+    "releaseDate": "June 11, 2027",
+    "cast": [
+      {
+        "role": "Luger",
+        "name": "Jr NTR",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Jr_NTR_promoting_RRR_in_Delhi.jpg?width=400"
+      },
+      {
+        "name": "Rukmini Vasanth",
+        "role": "Heroine",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Rukmini_Vasanth_in_2023.jpg?width=400"
+      },
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Anil_Kapoor_promoting_Fighter.jpg?width=400",
+        "name": "Anil Kapoor",
+        "role": "Raghuveer Rathod"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/embed/6u_66gI_Wyo",
+    "trailers": {
+      "Hindi": "https://www.youtube.com/embed/6u_66gI_Wyo",
+      "Tamil": "https://www.youtube.com/embed/6u_66gI_Wyo",
+      "Malayalam": "https://www.youtube.com/embed/6u_66gI_Wyo",
+      "Telugu": "https://www.youtube.com/embed/6u_66gI_Wyo",
+      "Kannada": "https://www.youtube.com/embed/6u_66gI_Wyo"
+    },
+    "backdrop": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&auto=format&fit=crop&q=80",
+    "rating": 9.3,
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "Drama"
+    ]
+  },
+  {
+    "id": "mov-108",
+    "genre": [
+      "Sci-Fi",
+      "Mystery",
+      "Thriller",
+      "Adventure"
+    ],
+    "poster": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7e/The_End_of_Oak_Street_poster.jpg/250px-The_End_of_Oak_Street_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+    "crew": [
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/David_Robert_Mitchell_at_Cannes_2018.jpg?width=400",
+        "role": "Director & Writer",
+        "name": "David Robert Mitchell"
+      },
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/J._J._Abrams_by_Gage_Skidmore_2.jpg?width=400",
+        "role": "Producer",
+        "name": "J. J. Abrams"
+      },
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Michael_Giacchino_2017.jpg?width=400",
+        "role": "Music Composer",
+        "name": "Michael Giacchino"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/embed/uYPbbksJxIg",
+    "backdrop": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&auto=format&fit=crop&q=80",
+    "trailers": {
+      "Telugu": "https://youtu.be/g_alqWGkXU8?si=sMO23pG7K4f8n-pJ",
+      "Hindi": "https://youtu.be/SVL_2TNMJtQ?si=uS9PLu-68XQ5c2Bt",
+      "Tamil": "https://youtu.be/K-r_bvfPz_k?si=icfvMua2X-CoAleQ",
+      "English": "https://youtu.be/3oB9AxspVow?si=uBow7yNc6DPMey_O"
+    },
+    "votes": "450.6K",
+    "status": "now_showing",
+    "languages": [
+      "English",
+      "Telugu",
+      "Hindi",
+      "Tamil"
+    ],
+    "rating": 9.2,
+    "duration": "135 min",
+    "title": "The End of Oak Street",
+    "releaseDate": "August 14, 2026",
+    "updatedAt": "2026-09-12T06:05:06.103Z",
+    "cast": [
+      {
+        "role": "Denise Platt",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Anne_Hathaway-68408_(cropped).jpg?width=400",
+        "name": "Anne Hathaway"
+      },
+      {
+        "name": "Ewan McGregor",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Ewan_McGregor_by_Gage_Skidmore_2.jpg?width=400",
+        "role": "Greg Platt"
+      },
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Maisy_Stella_2018.jpg?width=400",
+        "name": "Maisy Stella",
+        "role": "Audrey Platt"
+      },
+      {
+        "name": "Christian Convery",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Christian_Convery_by_Gage_Skidmore.jpg?width=400",
+        "role": "Brian Platt"
+      },
+      {
+        "role": "Neighbor / Jim",
+        "name": "P. J. Byrne",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/P._J._Byrne_by_Gage_Skidmore.jpg?width=400"
+      }
+    ],
+    "director": "David Robert Mitchell",
+    "language": "English",
+    "synopsis": "Set in the 1980s, a suburban neighborhood is abruptly separated from reality by an enigmatic cosmic anomaly. Denise and Greg Platt must navigate ancient prehistoric threats, save their family, and unravel the mystery at the end of Oak Street.",
+    "certification": "U/A"
+  },
+  {
+    "id": "mov-1790362323771",
+    "status": "now_showing",
+    "duration": "2h 45m",
+    "cast": [
+      {
+        "name": "Prabhas",
+        "role": "Lead Hero",
+        "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&auto=format&fit=crop&q=80",
+        "_id": "6ab6c2d374b3418cd66bbf77"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=300&auto=format&fit=crop&q=80",
+        "_id": "6ab6c2d374b3418cd66bbf78",
+        "role": "Lead Heroine",
+        "name": "Deepika Padukone"
+      }
+    ],
+    "formats": [
+      "2D",
+      "3D",
+      "IMAX 3D",
+      "4DX"
+    ],
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "Tamil"
+    ],
+    "description": "An epic cinematic release on CineFy.",
+    "releaseDate": "2026-09-25",
+    "title": "Avengers end Game encore",
+    "language": "English",
+    "poster": "https://cdn.district.in/movies-assets/images/cinema/_Gallery%20(2)-a6ae2240-a10e-11f1-839b-893ac46085dc.jpg",
+    "createdAt": "2026-09-25T18:52:03.810Z",
+    "certification": "U/A 16+",
+    "updatedAt": "2026-09-25T18:54:11.449Z",
+    "votes": "1.2K",
+    "trailerUrl": "https://youtu.be/X5Hxoj4pX1c?si=F8eJTquHrbPitV7l",
+    "_id": "6ab6c2d374b3418cd66bbf76",
+    "crew": [
+      {
+        "role": "Director & Screenplay",
+        "_id": "6ab6c2d374b3418cd66bbf79",
+        "name": "Nag Ashwin",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=300&auto=format&fit=crop&q=80"
+      },
+      {
+        "name": "Santhosh Narayanan",
+        "role": "Music Director",
+        "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=300&auto=format&fit=crop&q=80",
+        "_id": "6ab6c2d374b3418cd66bbf7a"
+      }
+    ],
+    "__v": 0,
+    "cities": [
+      "All"
+    ],
+    "rating": 9.1,
+    "genre": [
+      "Action",
+      "Thriller",
+      "Sci-Fi"
+    ],
+    "banner": "https://www.district.in/movies/avengers-endgame-encore-movie-tickets-MV227928?srsltid=AU7gw4VAMspYJ0kTh2Rs_9cnH3e8o_0F-DWlO2tTOdpNwubjDlvXUkHa"
+  },
+  {
+    "id": "mov-tel-Paradise",
+    "crew": [
+      {
+        "image": "https://content.tupaki.com/en/feeds/2024/08/25/493762-srikanth.gif",
+        "role": "Director",
+        "name": "Srikanth Odela"
+      },
+      {
+        "role": "Music Director",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3POfnYNdvmdeUypwfGgXd4psnmKCWupXTHviF3guzLMfSHZzBtM97Irw&s=10",
+        "name": "Anirudh Ravichander"
+      },
+      {
+        "role": "Producer (SLV Cinemas)",
+        "image": "https://cinetown.s3.ap-south-1.amazonaws.com/people/profile_img/1734709186.jpeg",
+        "name": "Sudhakar Cherukuri"
+      }
+    ],
+    "certification": "U/A",
+    "trailers": {
+      "Tamil": "https://www.youtube.com/embed/namFQ8wFdIA",
+      "Hindi": "https://www.youtube.com/embed/namFQ8wFdIA",
+      "Kannada": "https://www.youtube.com/embed/namFQ8wFdIA",
+      "Malayalam": "https://www.youtube.com/embed/namFQ8wFdIA",
+      "Telugu": "https://www.youtube.com/embed/namFQ8wFdIA"
+    },
+    "backdrop": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "trailerUrl": "https://www.youtube.com/embed/namFQ8wFdIA",
+    "title": "The Paradise",
+    "releaseDate": "September 24, 2026",
+    "rating": 9.4,
+    "status": "coming_soon",
+    "synopsis": "Follows a marginalized tribe fighting systemic oppression and discrimination to win their basic rights and citizenship under an unexpected leader.",
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Malayalam"
+    ],
+    "director": "Srikanth Odela",
+    "language": "Telugu",
+    "cast": [
+      {
+        "name": "Nani",
+        "role": "Jadal",
+        "image": "https://imgs.etvbharat.com/etvbharat/prod-images/30-04-2025/1200-675-24070560-17-24070560-1746027276608.jpg"
+      },
+      {
+        "role": "Female Lead",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1c2nLDooZLN6_PPLowIrOpcaEj1ZEZwuHjg2QiabXoU3uv-O_-q5VCiY&s=10",
+        "name": "Kayadu Lohar"
+      },
+      {
+        "role": "Shikanja Maalik",
+        "image": "https://www.telugu360.com/wp-content/uploads/2017/10/Mohan-Babu-playing-both-hero-and-Villain-roles-in-Madan-direction.jpg",
+        "name": "Mohan Babu"
+      }
+    ],
+    "updatedAt": "2026-09-12T06:05:06.793Z",
+    "duration": "165 min",
+    "poster": "https://cdn.district.in/movies-assets/images/cinema/The-Paradise_Poster-2c67d280-75d9-11f0-8df3-db01d1baa444.jpg",
+    "genre": [
+      "Action",
+      "Drama",
+      "Period Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "id": "mov-tel-fauji",
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Malayalam"
+    ],
+    "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "trailers": {
+      "Kannada": "https://www.youtube.com/embed/6acRF8Jjq30",
+      "Telugu": "https://www.youtube.com/embed/6acRF8Jjq30",
+      "Malayalam": "https://www.youtube.com/embed/6acRF8Jjq30",
+      "Hindi": "https://www.youtube.com/embed/6acRF8Jjq30",
+      "Tamil": "https://www.youtube.com/embed/6acRF8Jjq30"
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BY2M5ZmU0MTYtODRmNC00MDAzLWE2N2UtYTExMDYwYmZjNWJmXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "title": "Fauji",
+    "updatedAt": "2026-09-12T06:05:07.024Z",
+    "trailerUrl": "https://www.youtube.com/embed/6acRF8Jjq30",
+    "releaseDate": "December 3, 2026",
+    "crew": [
+      {
+        "name": "Hanu Raghavapudi",
+        "role": "Director",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Hanu_Raghavapudi_at_Sita_Ramam_press_meet.jpg?width=400"
+      },
+      {
+        "role": "Music Director",
+        "name": "Vishal Chandrasekhar",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Vishal_Chandrashekhar.jpg?width=400"
+      },
+      {
+        "name": "Naveen Yerneni",
+        "role": "Producer (Mythri Movie Makers)",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Naveen_Yerneni.jpg?width=400"
+      }
+    ],
+    "status": "coming_soon",
+    "certification": "U/A",
+    "genre": [
+      "Action",
+      "Period Drama",
+      "Romance",
+      "War"
+    ],
+    "rating": 9.3,
+    "director": "Hanu Raghavapudi",
+    "language": "Telugu",
+    "synopsis": "A grand historical period romance and war action drama set in the 1940s pre-independence era, chronicling a soldier's unwavering courage and profound love.",
+    "cast": [
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Prabhas_promoting_Baahubali_in_June_2015.jpg?width=400",
+        "name": "Prabhas",
+        "role": "British Indian Army Soldier"
+      },
+      {
+        "role": "Lead Heroine",
+        "name": "Imanvi",
+        "image": "https://pbs.twimg.com/media/HFyZmRyaMAA1MxL.jpg"
+      },
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Mithun_Chakraborty_at_Star_Guild_Awards.jpg?width=400",
+        "name": "Mithun Chakraborty",
+        "role": "Senior Commander"
+      }
+    ],
+    "duration": "175 min"
+  },
+  {
+    "id": "mov-tel-spirit",
+    "updatedAt": "2026-09-12T06:05:06.344Z",
+    "trailers": {
+      "Kannada": "https://www.youtube.com/embed/i0j94mF3otA",
+      "Malayalam": "https://www.youtube.com/embed/i0j94mF3otA",
+      "Telugu": "https://www.youtube.com/embed/i0j94mF3otA",
+      "Tamil": "https://www.youtube.com/embed/i0j94mF3otA",
+      "Hindi": "https://www.youtube.com/embed/i0j94mF3otA"
+    },
+    "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Malayalam"
+    ],
+    "cast": [
+      {
+        "name": "Prabhas",
+        "role": "IPS Officer / Spirit",
+        "image": "https://cf-images.assettype.com/outlookindia/2024-12-27/dbgs5pvj/1.jpg?w=801&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0"
+      },
+      {
+        "image": "https://miro.medium.com/1*NdLaR2x3vBoKEjQ-45qssg.jpeg",
+        "role": "Female Lead",
+        "name": "Triptii Dimri"
+      },
+      {
+        "name": "Vivek Oberoi",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYFhgN0vFXJQ8t3uQynFRjAdUn2WbCnd6OzKBrAFYmvy062PMm6cMhc9g&s=10",
+        "role": "Antagonist"
+      }
+    ],
+    "trailerUrl": "https://www.youtube.com/embed/i0j94mF3otA",
+    "rating": 9.6,
+    "releaseDate": "March 5, 2027",
+    "status": "coming_soon",
+    "synopsis": "An intense, high-octane cop action thriller following an uncompromising, fierce police officer who wages a solitary war against systemic corruption and underground crime syndicates.",
+    "language": "Telugu",
+    "director": "Sandeep Reddy Vanga",
+    "poster": "https://m.media-amazon.com/images/M/MV5BNzMxMDdiYzAtNGM0Ni00ZWQxLWI0ZTUtMzdkMjBkMzExYWZmXkEyXkFqcGc@._V1_.jpg",
+    "title": "Spirit",
+    "duration": "185 min",
+    "certification": "A",
+    "crew": [
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqjEnH7ELE3NcP5fmwhE8m09zaSEn0FaYqTiT9SdQaLdSozVGzo5Yf9WE&s=10",
+        "role": "Director & Writer",
+        "name": "Sandeep Reddy Vanga"
+      },
+      {
+        "name": "Harshavardhan Rameshwar",
+        "role": "Music Director",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThFKJgQEHtdQO_uTvauXk6krKmsbjyREdiaVw9mHvz6NcQGQE7Q9A6XHht&s=10"
+      },
+      {
+        "role": "Producer (T-Series)",
+        "name": "Bhushan Kumar",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI1ODFhNDUtOTM4Mi00YTU5LWJkMzEtZTk2ZDEyYWRmMmUxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+      }
+    ]
+  },
+  {
+    "id": "mov-tel-varanasi",
+    "cast": [
+      {
+        "role": "Adventurer / Explorer",
+        "name": "Mahesh Babu",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Mahesh_Babu_in_Spyder.jpg?width=400"
+      },
+      {
+        "role": "Rival Explorer",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Prithviraj_Sukumaran_at_Aadujeevitham_Press_Meet.jpg?width=400",
+        "name": "Prithviraj Sukumaran"
+      },
+      {
+        "role": "Lead Partner",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/Priyanka-chopra-gesf-2018-7565.jpg?width=400",
+        "name": "Priyanka Chopra"
+      }
+    ],
+    "certification": "U/A",
+    "genre": [
+      "Action",
+      "Adventure",
+      "Thriller",
+      "Mythological"
+    ],
+    "backdrop": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?w=1200&auto=format&fit=crop&q=80",
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "Kannada": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "Telugu": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "Hindi": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "Tamil": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "English": "https://www.youtube.com/embed/d9MyW72ELq0"
+    },
+    "rating": 9.8,
+    "trailerUrl": "https://www.youtube.com/embed/d9MyW72ELq0",
+    "title": "Varanasi (SSMB29)",
+    "updatedAt": "2026-09-12T06:05:06.591Z",
+    "synopsis": "An Indiana Jones-style globe-trotting jungle adventure and mythical quest rooted in Indian ancient history, spanning the sacred ghats of Varanasi across the world.",
+    "status": "coming_soon",
+    "crew": [
+      {
+        "name": "S. S. Rajamouli",
+        "role": "Director",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/S._S._Rajamouli_at_RRR_promotions.jpg?width=400"
+      },
+      {
+        "role": "Music Director",
+        "name": "M. M. Keeravani",
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/M._M._Keeravani_at_Inji_Iduppazhagi_Audio_Launch_(cropped).jpg?width=400"
+      },
+      {
+        "image": "https://en.wikipedia.org/wiki/Special:FilePath/K.L._Narayana.jpg?width=400",
+        "role": "Producer",
+        "name": "K. L. Narayana"
+      }
+    ],
+    "director": "S. S. Rajamouli",
+    "language": "Telugu",
+    "languages": [
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Kannada",
+      "Malayalam",
+      "English"
+    ],
+    "releaseDate": "April 9, 2027",
+    "duration": "195 min",
+    "poster": "https://m.media-amazon.com/images/M/MV5BOWIxZWYxNTItOTQ1MS00NGEzLWE0NzktZTRiMDFkMTU3YTlhXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
+  },
+  {
+    "id": "mov-up-jailer2",
+    "director": "Nelson Dilipkumar",
+    "language": "Tamil",
+    "crew": [
+      {
+        "name": "Nelson Dilipkumar",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Nelson_Dilipkumar_at_Jailer_press_meet.jpg",
+        "role": "Director"
+      },
+      {
+        "name": "Anirudh Ravichander",
+        "role": "Music Director",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3POfnYNdvmdeUypwfGgXd4psnmKCWupXTHviF3guzLMfSHZzBtM97Irw&s=10"
+      },
+      {
+        "image": "https://imageio.forbes.com/specials-images/imageserve/615b2ce02324216fa0fe0d6d/0x0.jpg?format=jpg&crop=894,895,x164,y91,safe&height=416&width=416&fit=bounds",
+        "name": "Kalanithi Maran",
+        "role": "Producer (Sun Pictures)"
+      }
+    ],
+    "synopsis": "Tiger Muthuvel Pandian returns to dismantle an international cartel threatening national security, joining hands once again with fierce allies Narasimha and Mathew.",
+    "releaseDate": "May 2027",
+    "rating": 9.7,
+    "certification": "U/A",
+    "updatedAt": "2026-09-12T06:05:07.658Z",
+    "trailerUrl": "https://www.youtube.com/embed/6u_66gI_Wyo",
+    "duration": "170 min",
+    "languages": [
+      "Tamil",
+      "Telugu",
+      "Hindi",
+      "Kannada",
+      "Malayalam"
+    ],
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "Comedy"
+    ],
+    "trailers": {
+      "Hindi": "https://www.youtube.com/embed/6u_66gI_Wyo",
+      "Tamil": "https://www.youtube.com/embed/6u_66gI_Wyo",
+      "Kannada": "https://www.youtube.com/embed/6u_66gI_Wyo",
+      "Telugu": "https://www.youtube.com/embed/6u_66gI_Wyo",
+      "Malayalam": "https://www.youtube.com/embed/6u_66gI_Wyo"
+    },
+    "backdrop": "https://images.unsplash.com/photo-1517604931442-7e0c8ed2963c?w=1200&auto=format&fit=crop&q=80",
+    "poster": "https://m.media-amazon.com/images/M/MV5BYmE0MTFjOTYtMWYxNC00YjFjLTlhNzYtMWQ5ZDEwNjRmYzE1XkEyXkFqcGc@._V1_.jpg",
+    "cast": [
+      {
+        "name": "Rajinikanth",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Rajinikanth_in_2023.jpg",
+        "role": "Tiger Muthuvel Pandian"
+      },
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mohanlal_at_Vanitha_Film_Awards.jpg",
+        "name": "Mohanlal",
+        "role": "Mathew"
+      },
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Shiva_Rajkumar_at_Ghost_Press_Meet.jpg",
+        "role": "Narasimha",
+        "name": "Shiva Rajkumar"
+      }
+    ],
+    "status": "coming_soon",
+    "title": "Jailer 2 (HUKUM)"
+  },
+  {
+    "id": "mov-up-ramayana",
+    "status": "coming_soon",
+    "trailerUrl": "https://www.youtube.com/embed/d9MyW72ELq0",
+    "synopsis": "The magnum opus cinematic retelling of the ancient Indian epic Ramayana, tracing the divine birth, exile of Lord Rama with Sita and Lakshmana, and the clash with Lanka's king Raavan.",
+    "director": "Nitesh Tiwari",
+    "language": "Hindi",
+    "crew": [
+      {
+        "name": "Nitesh Tiwari",
+        "role": "Director",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Nitesh_Tiwari_Dangal.jpg"
+      },
+      {
+        "role": "Music Composers",
+        "name": "A. R. Rahman & Hans Zimmer",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/A._R._Rahman_at_NMACC.jpg"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR611y06HjJvB-jJ54Uf_G8k7R1t-ZtWp9z7g&s",
+        "role": "Producer (DNEG / Prime Focus)",
+        "name": "Namit Malhotra"
+      }
+    ],
+    "duration": "210 min",
+    "certification": "U",
+    "poster": "https://m.media-amazon.com/images/M/MV5BMzljMTFkYTktMjQ0MC00NjFhLWFmOTEtOTMyZmVhNTBmYTMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    "genre": [
+      "Mythological",
+      "Action",
+      "Drama",
+      "Epic",
+      "Fantasy"
+    ],
+    "releaseDate": "Diwali 2026",
+    "languages": [
+      "Hindi",
+      "Telugu",
+      "Tamil",
+      "Kannada",
+      "Malayalam",
+      "English"
+    ],
+    "trailers": {
+      "Malayalam": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "Hindi": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "Tamil": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "Kannada": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "Telugu": "https://www.youtube.com/embed/d9MyW72ELq0"
+    },
+    "cast": [
+      {
+        "name": "Ranbir Kapoor",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Ranbir_Kapoor_promoting_Brahmastra.jpg",
+        "role": "Lord Rama"
+      },
+      {
+        "role": "Mata Sita",
+        "name": "Sai Pallavi",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Sai_Pallavi_at_Gargi_press_meet.jpg"
+      },
+      {
+        "role": "Lankeshwar Raavan",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Yash_at_KGF_2_trailer_launch.jpg",
+        "name": "Yash"
+      },
+      {
+        "name": "Sunny Deol",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Sunny_Deol_in_2023.jpg",
+        "role": "Lord Hanuman"
+      }
+    ],
+    "backdrop": "https://images.unsplash.com/photo-1534447677768-be436bb09401?w=1200&auto=format&fit=crop&q=80",
+    "title": "Ramayana: Part 1",
+    "updatedAt": "2026-09-12T06:05:07.454Z",
+    "rating": 9.9
+  },
+  {
+    "id": "mov-up-toxic",
+    "genre": [
+      "Action",
+      "Crime",
+      "Thriller",
+      "Drama"
+    ],
+    "crew": [
+      {
+        "role": "Director",
+        "name": "Geetu Mohandas",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Geetu_Mohandas.jpg"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH64c1uUvVfE3vJkU1N0b9Rj-i0Y5s6D7V8A&s",
+        "role": "Music Director",
+        "name": "Jeremy Stack"
+      },
+      {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6s2c5oQ66M5_2eGk-7UuJ6Q_gA7W1y2x3zA&s",
+        "name": "Venkat K. Narayana",
+        "role": "Producer (KVN Productions)"
+      }
+    ],
+    "poster": "https://static.toiimg.com/thumb/imgsize-15184,msid-105829950,width-1000,resizemode-4/105829950.jpg",
+    "backdrop": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=1200&auto=format&fit=crop&q=80",
+    "trailers": {
+      "Telugu": "https://www.youtube.com/embed/ICBXwQUrpX0",
+      "Malayalam": "https://www.youtube.com/embed/ICBXwQUrpX0",
+      "Kannada": "https://www.youtube.com/embed/ICBXwQUrpX0",
+      "Hindi": "https://www.youtube.com/embed/ICBXwQUrpX0",
+      "Tamil": "https://www.youtube.com/embed/ICBXwQUrpX0"
+    },
+    "status": "coming_soon",
+    "rating": 9.8,
+    "title": "Toxic: A Fairy Tale for Grown-ups",
+    "cast": [
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c9/Yash_at_KGF_2_trailer_launch.jpg",
+        "role": "Raya / Lead Protagonist",
+        "name": "Yash"
+      },
+      {
+        "role": "Female Lead",
+        "name": "Kiara Advani",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Kiara_Advani_attending_the_Green_Carpet_at_IIFA_2022.jpg"
+      },
+      {
+        "image": "https://upload.wikimedia.org/wikipedia/commons/9/91/Nayanthara_at_Jawan_event.jpg",
+        "role": "Sister / Royal Matriarch",
+        "name": "Nayanthara"
+      }
+    ],
+    "languages": [
+      "Kannada",
+      "Telugu",
+      "Hindi",
+      "Tamil",
+      "Malayalam"
+    ],
+    "duration": "180 min",
+    "releaseDate": "August 26, 2026",
+    "trailerUrl": "https://www.youtube.com/embed/ICBXwQUrpX0",
+    "updatedAt": "2026-09-12T06:05:07.245Z",
+    "certification": "A",
+    "language": "Kannada",
+    "director": "Geetu Mohandas",
+    "synopsis": "Set against the backdrop of the international drug cartel and underworld nexus between 1950 and 1970, Toxic follows a charismatic anti-hero who rules through fear and dark mythos."
+  }
+]

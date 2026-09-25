@@ -1,0 +1,187 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cyan-50: #fefce8;
+  --color-cyan-100: #fef9c3;
+  --color-cyan-200: #fef08a;
+  --color-cyan-300: #fde047;
+  --color-cyan-400: #facc15;
+  --color-cyan-500: #eab308;
+  --color-cyan-600: #ca8a04;
+  --color-cyan-700: #a16207;
+  --color-cyan-800: #854d0e;
+  --color-cyan-900: #713f12;
+  --color-cyan-950: #422006;
+
+  --color-sky-50: #fefce8;
+  --color-sky-100: #fef9c3;
+  --color-sky-200: #fef08a;
+  --color-sky-300: #fde047;
+  --color-sky-400: #facc15;
+  --color-sky-500: #eab308;
+  --color-sky-600: #ca8a04;
+  --color-sky-700: #a16207;
+  --color-sky-800: #854d0e;
+  --color-sky-900: #713f12;
+  --color-sky-950: #422006;
+}
+
+@layer base {
+  body {
+    background-color: #070702;
+    color: #fefce8;
+    font-family: 'Plus Jakarta Sans', sans-serif;
+  }
+  
+  h1, h2, h3, h4, .font-heading {
+    font-family: 'Outfit', sans-serif;
+  }
+
+  ::selection {
+    background-color: #facc15;
+    color: #000000;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #0c0b02;
+}
+::-webkit-scrollbar-thumb {
+  background: #24200a;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #eab308;
+}
+
+/* Glassmorphism & Yellow accents */
+.glass-panel {
+  background: rgba(18, 16, 4, 0.78);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(250, 204, 21, 0.12);
+}
+
+.glass-card {
+  background: rgba(18, 16, 4, 0.65);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(250, 204, 21, 0.08);
+}
+
+.gold-gradient-text, .blue-gradient-text, .cyan-gradient-text, .yellow-gradient-text {
+  background: linear-gradient(135deg, #fef08a 0%, #facc15 50%, #eab308 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.gold-button, .blue-button, .cyan-button, .yellow-button {
+  position: relative;
+  isolation: isolate;
+  background: linear-gradient(135deg, #facc15 0%, #eab308 100%);
+  color: #000000;
+  font-weight: 700;
+  border: 1px solid rgba(254, 240, 138, 0.4);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  overflow: hidden;
+}
+
+.gold-button:hover, .blue-button:hover, .cyan-button:hover, .yellow-button:hover {
+  background: linear-gradient(135deg, #fde047 0%, #facc15 100%);
+  box-shadow: 0 0 24px rgba(234, 179, 8, 0.6);
+  border-color: rgba(254, 240, 138, 0.8);
+}
+
+/* Moving border beam on cursor hover for buttons */
+.gold-button::before, .blue-button::before, .cyan-button::before, .yellow-button::before, .moving-border-hover::before {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 250%;
+  height: 250%;
+  background: conic-gradient(
+    transparent 0deg,
+    transparent 260deg,
+    rgba(234, 179, 8, 0.4) 300deg,
+    rgba(250, 204, 21, 0.9) 330deg,
+    rgba(255, 255, 255, 1) 360deg
+  );
+  transform: translate(-50%, -50%) rotate(0deg);
+  opacity: 0;
+  transition: opacity 0.3s ease;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.gold-button:hover::before, .blue-button:hover::before, .cyan-button:hover::before, .yellow-button:hover::before, .moving-border-hover:hover::before {
+  opacity: 1;
+  animation: borderRotate 2.2s linear infinite;
+}
+
+.gold-button > *, .blue-button > *, .cyan-button > *, .yellow-button > *, .moving-border-hover > * {
+  position: relative;
+  z-index: 2;
+}
+
+@keyframes borderRotate {
+  0% {
+    transform: translate(-50%, -50%) rotate(0deg);
+  }
+  100% {
+    transform: translate(-50%, -50%) rotate(360deg);
+  }
+}
+
+/* Laser sweep keyframe */
+@keyframes laserSweep {
+  0% { transform: translateX(-100%) rotate(25deg); opacity: 0; }
+  50% { opacity: 0.8; }
+  100% { transform: translateX(200%) rotate(25deg); opacity: 0; }
+}
+
+.animate-laser-sweep {
+  animation: laserSweep 3s infinite ease-in-out;
+}
+
+/* Print Stylesheet for Single-Page Compact Digital Tickets */
+@media print {
+  body {
+    background-color: #ffffff !important;
+    color: #0f172a !important;
+  }
+  
+  header, footer, nav, .no-print, button, .action-buttons {
+    display: none !important;
+  }
+
+  #cinefy-digital-ticket, #stadium-e-pass {
+    border: 2px solid #000000 !important;
+    background: #ffffff !important;
+    color: #000000 !important;
+    box-shadow: none !important;
+    page-break-inside: avoid !important;
+    margin: 0 auto !important;
+    max-width: 100% !important;
+  }
+
+  #cinefy-digital-ticket *, #stadium-e-pass * {
+    color: #000000 !important;
+    text-shadow: none !important;
+    border-color: #cbd5e1 !important;
+  }
+
+  #cinefy-digital-ticket .print-dark-bg, #stadium-e-pass .print-dark-bg {
+    background-color: #f1f5f9 !important;
+  }
+
+  #cinefy-digital-ticket .print-accent, #stadium-e-pass .print-accent {
+    font-weight: bold !important;
+    color: #0f172a !important;
+  }
+}
+

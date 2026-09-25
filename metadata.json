@@ -1,0 +1,6 @@
+{
+  "name": "CineFy",
+  "description": "Cinematic entertainment booking and authentic cricket stadium interactive seating maps featuring HPCA Stadium (Dharamshala, Himachal Pradesh) with its Himalayan Tibetan pagoda pavilion, red & white roofs, Dhauladhar snow mountain backdrop, blue seating blocks, and 6 high-mast floodlights, alongside Narendra Modi Stadium and Rajiv Gandhi Uppal Stadium.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

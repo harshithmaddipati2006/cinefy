@@ -1,0 +1,91 @@
+{
+  "entities": {
+    "users": {
+      "title": "Users",
+      "description": "User profile information and accounts",
+      "type": "object",
+      "properties": {
+        "uid": { "type": "string" },
+        "email": { "type": "string" },
+        "displayName": { "type": "string" },
+        "photoURL": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["uid", "email"]
+    },
+    "bookings": {
+      "title": "Bookings",
+      "description": "Movie and event ticket bookings",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "userId": { "type": "string" },
+        "movieTitle": { "type": "string" },
+        "theatreName": { "type": "string" },
+        "screenName": { "type": "string" },
+        "showDate": { "type": "string" },
+        "showTime": { "type": "string" },
+        "seats": { "type": "array" },
+        "totalAmount": { "type": "number" },
+        "qrCode": { "type": "string" },
+        "createdAt": { "type": "string" }
+      },
+      "required": ["userId", "movieTitle"]
+    },
+    "movies": {
+      "title": "Movies",
+      "description": "Live dynamic movie inventory across all devices and sessions",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "language": { "type": "string" },
+        "languages": { "type": "array" },
+        "genre": { "type": "array" },
+        "certification": { "type": "string" },
+        "duration": { "type": "string" },
+        "rating": { "type": "number" },
+        "votes": { "type": "string" },
+        "releaseDate": { "type": "string" },
+        "status": { "type": "string" },
+        "poster": { "type": "string" },
+        "backdrop": { "type": "string" },
+        "trailerUrl": { "type": "string" },
+        "trailers": { "type": "object" },
+        "synopsis": { "type": "string" },
+        "director": { "type": "string" },
+        "cast": { "type": "array" },
+        "crew": { "type": "array" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "title"]
+    },
+    "theatres": {
+      "title": "Theatres",
+      "description": "Custom theatres and screen configurations",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "name": { "type": "string" },
+        "city": { "type": "string" },
+        "state": { "type": "string" },
+        "screens": { "type": "array" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "name"]
+    },
+    "events": {
+      "title": "Events",
+      "description": "Custom live events and concerts",
+      "type": "object",
+      "properties": {
+        "id": { "type": "string" },
+        "title": { "type": "string" },
+        "city": { "type": "string" },
+        "date": { "type": "string" },
+        "updatedAt": { "type": "string" }
+      },
+      "required": ["id", "title"]
+    }
+  }
+}

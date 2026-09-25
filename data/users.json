@@ -1,0 +1,50 @@
+[
+  {
+    "id": "usr-admin",
+    "name": "CineFy Admin",
+    "email": "admin@cinefy.com",
+    "password": "$2b$10$mdiJ45X6AgZCNYyY6b04me9NR/am4VepJ.ZCTV9AEVMjRle0Va30K",
+    "role": "admin",
+    "phone": "+91 9876543210",
+    "city": "Hyderabad"
+  },
+  {
+    "id": "usr-1",
+    "name": "Rahul Verma",
+    "email": "rahul@example.com",
+    "password": "$2b$10$NaXhhZnKliJItudYrJxFlOj.NmfSyRGnlH4WobhI7FEyqIc8QuSC6",
+    "role": "user",
+    "phone": "+91 9876543210",
+    "city": "Hyderabad"
+  },
+  {
+    "id": "usr-admin-ph",
+    "name": "Admin (+91 8317625528)",
+    "email": "admin.8317625528@cinefy.com",
+    "password": "$2b$10$w0IjrB.lUq3ZXeicQjzK0u5sZ3ifMYtxRDkj1H7RxMgEbWXgB5q9S",
+    "role": "admin",
+    "phone": "+91 8317625528",
+    "city": "Hyderabad",
+    "permissions": [
+      "MANAGE_MOVIES",
+      "MANAGE_THEATRES",
+      "MANAGE_SCREENS",
+      "MANAGE_SHOWS",
+      "MANAGE_BOOKINGS",
+      "MANAGE_EVENTS",
+      "MANAGE_SPORTS",
+      "MANAGE_PRICING",
+      "MANAGE_LOCKS"
+    ]
+  },
+  {
+    "id": "usr-1789193889692",
+    "name": "Test Customer",
+    "email": "customer99@cinefy.com",
+    "password": "$2b$10$YQAuvlW1XmLDBZXJWi0i4Op9vO1pPP7ygCWa4ol2N94PJeGYTKTx.",
+    "role": "user",
+    "phone": "9111223344",
+    "city": "Hyderabad",
+    "createdAt": "2026-09-12T06:18:09.786Z"
+  }
+]
